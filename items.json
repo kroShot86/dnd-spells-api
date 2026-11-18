@@ -1,0 +1,1342 @@
+{
+  "items": [
+    {
+      "item_type": "armor",
+      "name": "Стёганый",
+      "weight": 8.0,
+      "count": 1,
+      "armorClass": 11,
+      "armorType": "Лёгкий доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Кожаный",
+      "weight": 10.0,
+      "count": 1,
+      "armorClass": 11,
+      "armorType": "Лёгкий доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Проклёпанный кожаный",
+      "weight": 13.0,
+      "count": 1,
+      "armorClass": 12,
+      "armorType": "Лёгкий доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Шкурный",
+      "weight": 12.0,
+      "count": 1,
+      "armorClass": 12,
+      "armorType": "Средний доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Кольчужная рубаха",
+      "weight": 20.0,
+      "count": 1,
+      "armorClass": 13,
+      "armorType": "Средний доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Чешуйчатый",
+      "weight": 45.0,
+      "count": 1,
+      "armorClass": 14,
+      "armorType": "Средний доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Кираса",
+      "weight": 20.0,
+      "count": 1,
+      "armorClass": 14,
+      "armorType": "Средний доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Полулаты",
+      "weight": 40.0,
+      "count": 1,
+      "armorClass": 15,
+      "armorType": "Средний доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Колечный",
+      "weight": 40.0,
+      "count": 1,
+      "armorClass": 14,
+      "armorType": "Тяжёлый доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Кольчуга",
+      "weight": 55.0,
+      "count": 1,
+      "armorClass": 16,
+      "armorType": "Тяжёлый доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Наборный",
+      "weight": 60.0,
+      "count": 1,
+      "armorClass": 17,
+      "armorType": "Тяжёлый доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Латы",
+      "weight": 65.0,
+      "count": 1,
+      "armorClass": 18,
+      "armorType": "Тяжёлый доспех"
+    },
+    {
+      "item_type": "armor",
+      "name": "Щит",
+      "weight": 6.0,
+      "count": 1,
+      "armorClass": 2,
+      "armorType": "Щит"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Боевой посох",
+      "weight": 4.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Булава",
+      "weight": 4.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Дубинка",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к4",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Кинжал",
+      "weight": 1.0,
+      "count": 1,
+      "damage": "1к4",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Копьё",
+      "weight": 3.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Лёгкий молот",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к4",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Метательное копьё",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Палица",
+      "weight": 10.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Ручной топор",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Серп",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к4",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Арбалет, лёгкий",
+      "weight": 5.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Дротик",
+      "weight": 0.25,
+      "count": 1,
+      "damage": "1к4",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Короткий лук",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Праща",
+      "weight": 0.0,
+      "count": 1,
+      "damage": "1к4",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Алебарда",
+      "weight": 6.0,
+      "count": 1,
+      "damage": "1к10",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Боевая кирка",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Боевой молот",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Боевой топор",
+      "weight": 4.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Глефа",
+      "weight": 6.0,
+      "count": 1,
+      "damage": "1к10",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Двуручный меч",
+      "weight": 6.0,
+      "count": 1,
+      "damage": "2к6",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Длинное копьё",
+      "weight": 6.0,
+      "count": 1,
+      "damage": "1к12",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Длинный меч",
+      "weight": 3.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Кнут",
+      "weight": 3.0,
+      "count": 1,
+      "damage": "1к4",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Короткий меч",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Молот",
+      "weight": 10.0,
+      "count": 1,
+      "damage": "2к6",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Моргенштерн",
+      "weight": 4.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Пика",
+      "weight": 18.0,
+      "count": 1,
+      "damage": "1к10",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Рапира",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Секира",
+      "weight": 7.0,
+      "count": 1,
+      "damage": "1к12",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Скимитар",
+      "weight": 3.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "рубящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Трезубец",
+      "weight": 4.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Цеп",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "дробящий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Арбалет, ручной",
+      "weight": 3.0,
+      "count": 1,
+      "damage": "1к6",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Арбалет, тяжёлый",
+      "weight": 18.0,
+      "count": 1,
+      "damage": "1к10",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Длинный лук",
+      "weight": 2.0,
+      "count": 1,
+      "damage": "1к8",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Духовая трубка",
+      "weight": 1.0,
+      "count": 1,
+      "damage": "1",
+      "damageType": "колющий"
+    },
+    {
+      "item_type": "weapon",
+      "name": "Сеть",
+      "weight": 3.0,
+      "count": 1,
+      "damage": "—",
+      "damageType": "—"
+    },
+    {
+      "item_type": "consumable",
+      "name": "Алхимический огонь (фляга)",
+      "weight": 1.0,
+      "count": 1,
+      "effect": "1к4 урона огнём в начале каждого хода цели. Действие + проверка Ловкости Сл 10, чтобы потушить."
+    },
+    {
+      "item_type": "consumable",
+      "name": "Зелье лечения",
+      "weight": 0.5,
+      "count": 1,
+      "effect": "Восстанавливает 2к4 + 2 хита."
+    },
+    {
+      "item_type": "consumable",
+      "name": "Кислота (флакон)",
+      "weight": 1.0,
+      "count": 1,
+      "effect": "Дальнобойная атака (импровизированное оружие). При попадании 2к6 урона кислотой."
+    },
+    {
+      "item_type": "consumable",
+      "name": "Масло (фляга)",
+      "weight": 1.0,
+      "count": 1,
+      "effect": "При попадании цель покрывается маслом. Если получает урон огнём, пока масло не высохло (1 мин), получает доп. 5 урона огнём."
+    },
+    {
+      "item_type": "consumable",
+      "name": "Противоядие (флакон)",
+      "weight": 0.0,
+      "count": 1,
+      "effect": "В течение часа спасброски от яда с преимуществом. Не действует на нежить и конструктов."
+    },
+    {
+      "item_type": "consumable",
+      "name": "Святая вода (фляга)",
+      "weight": 1.0,
+      "count": 1,
+      "effect": "Дальнобойная атака (импровизированное оружие). Если цель — Исчадие или Нежить, 2к6 урона излучением."
+    },
+    {
+      "item_type": "consumable",
+      "name": "Яд, простой (флакон)",
+      "weight": 0.0,
+      "count": 1,
+      "effect": "Покрывает одно рубящее/колющее оружие или 3 боеприпаса. При попадании спасбросок Телосложения Сл 10, при провале 1к4 урона ядом. Действует 1 минуту."
+    },
+    {
+      "item_type": "simple",
+      "name": "Абак",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Счётная доска для арифметических вычислений."
+    },
+    {
+      "item_type": "simple",
+      "name": "Блок и лебёдка",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Позволяет поднять в четыре раза больше, чем обычно."
+    },
+    {
+      "item_type": "simple",
+      "name": "Арбалетные болты (20)",
+      "weight": 1.5,
+      "count": 20,
+      "description": "Боеприпасы для арбалета."
+    },
+    {
+      "item_type": "simple",
+      "name": "Иглы для трубки (50)",
+      "weight": 1.0,
+      "count": 50,
+      "description": "Боеприпасы для духовой трубки."
+    },
+    {
+      "item_type": "simple",
+      "name": "Снаряды для пращи (20)",
+      "weight": 1.5,
+      "count": 20,
+      "description": "Боеприпасы для пращи."
+    },
+    {
+      "item_type": "simple",
+      "name": "Стрелы (20)",
+      "weight": 1.0,
+      "count": 20,
+      "description": "Боеприпасы для луков."
+    },
+    {
+      "item_type": "simple",
+      "name": "Бочка",
+      "weight": 70.0,
+      "count": 1,
+      "description": "Деревянная бочка."
+    },
+    {
+      "item_type": "simple",
+      "name": "Бумага (один лист)",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Лист бумаги."
+    },
+    {
+      "item_type": "simple",
+      "name": "Бурдюк",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Кожаный мешок для воды."
+    },
+    {
+      "item_type": "simple",
+      "name": "Бутылка, стеклянная",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Стеклянная бутылка."
+    },
+    {
+      "item_type": "simple",
+      "name": "Ведро",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Деревянное или металлическое ведро."
+    },
+    {
+      "item_type": "simple",
+      "name": "Верёвка пеньковая (50 футов)",
+      "weight": 10.0,
+      "count": 1,
+      "description": "2 хита, порвать проверкой Силы Сл 17."
+    },
+    {
+      "item_type": "simple",
+      "name": "Верёвка, шёлковая (50 футов)",
+      "weight": 5.0,
+      "count": 1,
+      "description": "2 хита, порвать проверкой Силы Сл 17."
+    },
+    {
+      "item_type": "simple",
+      "name": "Весы, торговые",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Рычажные весы с чашками и грузиками на 2 фунта."
+    },
+    {
+      "item_type": "simple",
+      "name": "Воск",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Кусок воска."
+    },
+    {
+      "item_type": "simple",
+      "name": "Горшок, железный",
+      "weight": 10.0,
+      "count": 1,
+      "description": "Железный горшок."
+    },
+    {
+      "item_type": "simple",
+      "name": "Духи (флакон)",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Флакон духов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Замок",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Идёт с ключом. Вскрыть без ключа — Ловкость Сл 15 (воровские инструменты)."
+    },
+    {
+      "item_type": "simple",
+      "name": "Зеркало, стальное",
+      "weight": 0.5,
+      "count": 1,
+      "description": "Стальное зеркало."
+    },
+    {
+      "item_type": "simple",
+      "name": "Калтропы (20 штук в сумке)",
+      "weight": 2.0,
+      "count": 20,
+      "description": "Действие рассыпать на 5×5 футов. Спасбросок Ловкости Сл 15, иначе движение останавливается и 1 колющего урона."
+    },
+    {
+      "item_type": "simple",
+      "name": "Кандалы",
+      "weight": 6.0,
+      "count": 1,
+      "description": "Сбежать — Ловкость Сл 20, сломать — Сила Сл 20. 15 хитов. Ключ в комплекте."
+    },
+    {
+      "item_type": "simple",
+      "name": "Кирка, горняцкая",
+      "weight": 10.0,
+      "count": 1,
+      "description": "Горняцкая кирка."
+    },
+    {
+      "item_type": "simple",
+      "name": "Книга",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Книга с текстом и картинками."
+    },
+    {
+      "item_type": "simple",
+      "name": "Книга заклинаний",
+      "weight": 3.0,
+      "count": 1,
+      "description": "100 пустых пергаментных страниц для записи заклинаний."
+    },
+    {
+      "item_type": "simple",
+      "name": "Колокольчик",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Небольшой колокольчик."
+    },
+    {
+      "item_type": "simple",
+      "name": "Колчан",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Вмещает 20 стрел."
+    },
+    {
+      "item_type": "simple",
+      "name": "Кольцо-печатка",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Кольцо с печаткой."
+    },
+    {
+      "item_type": "simple",
+      "name": "Комплект для лазания",
+      "weight": 12.0,
+      "count": 1,
+      "description": "Шлямбуры, накладные подошвы, перчатки, страховочная привязь. Позволяет закрепиться на высоте."
+    },
+    {
+      "item_type": "simple",
+      "name": "Комплект для рыбалки",
+      "weight": 4.0,
+      "count": 1,
+      "description": "Удилище, шёлковая леска, поплавок, крючки, грузила, приманки, сеть."
+    },
+    {
+      "item_type": "simple",
+      "name": "Комплект целителя",
+      "weight": 3.0,
+      "count": 1,
+      "description": "10 использований. Действие — стабилизировать существо с 0 хитов без проверки Мудрости (Медицина)."
+    },
+    {
+      "item_type": "simple",
+      "name": "Контейнер для арбалетных болтов",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Вмещает 20 арбалетных болтов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Контейнер для карт и свитков",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Вмещает до 10 скрученных листов бумаги или 5 листов пергамента."
+    },
+    {
+      "item_type": "simple",
+      "name": "Корзина",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Плетёная корзина."
+    },
+    {
+      "item_type": "simple",
+      "name": "Кошель",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Вмещает 20 снарядов для пращи или 50 игл для трубки."
+    },
+    {
+      "item_type": "simple",
+      "name": "Крюк-кошка",
+      "weight": 4.0,
+      "count": 1,
+      "description": "Крюк с верёвкой для лазания."
+    },
+    {
+      "item_type": "simple",
+      "name": "Кувшин или графин",
+      "weight": 4.0,
+      "count": 1,
+      "description": "Керамический кувшин."
+    },
+    {
+      "item_type": "simple",
+      "name": "Лампа",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Яркий свет 15 футов, тусклый ещё 30. Горит 6 часов на 1 пинте масла."
+    },
+    {
+      "item_type": "simple",
+      "name": "Лестница (10 футов)",
+      "weight": 25.0,
+      "count": 1,
+      "description": "Деревянная лестница длиной 10 футов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Ломик",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Преимущество на проверки Силы, если рычаг помогает."
+    },
+    {
+      "item_type": "simple",
+      "name": "Лопата",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Штыковая лопата."
+    },
+    {
+      "item_type": "simple",
+      "name": "Волшебная палочка",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Магическая фокусировка для волшебников, колдунов, чародеев."
+    },
+    {
+      "item_type": "simple",
+      "name": "Жезл",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Магическая фокусировка."
+    },
+    {
+      "item_type": "simple",
+      "name": "Кристалл",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Магическая фокусировка."
+    },
+    {
+      "item_type": "simple",
+      "name": "Посох",
+      "weight": 4.0,
+      "count": 1,
+      "description": "Магическая фокусировка."
+    },
+    {
+      "item_type": "simple",
+      "name": "Сфера",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Магическая фокусировка."
+    },
+    {
+      "item_type": "simple",
+      "name": "Мел (1 кусочек)",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Кусок мела."
+    },
+    {
+      "item_type": "simple",
+      "name": "Металлические шарики",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Действие рассыпать на 10×10 футов. Спасбросок Ловкости Сл 10, иначе падают ничком."
+    },
+    {
+      "item_type": "simple",
+      "name": "Мешок",
+      "weight": 0.5,
+      "count": 1,
+      "description": "Тканевый мешок."
+    },
+    {
+      "item_type": "simple",
+      "name": "Мешочек с компонентами",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Поясной кошель для материальных компонентов заклинаний."
+    },
+    {
+      "item_type": "simple",
+      "name": "Молот, кузнечный",
+      "weight": 10.0,
+      "count": 1,
+      "description": "Кузнечный молот."
+    },
+    {
+      "item_type": "simple",
+      "name": "Молоток",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Обычный молоток."
+    },
+    {
+      "item_type": "simple",
+      "name": "Мыло",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Кусок мыла."
+    },
+    {
+      "item_type": "simple",
+      "name": "Одежда, дорожная",
+      "weight": 4.0,
+      "count": 1,
+      "description": "Дорожная одежда."
+    },
+    {
+      "item_type": "simple",
+      "name": "Одежда, костюм",
+      "weight": 4.0,
+      "count": 1,
+      "description": "Костюм."
+    },
+    {
+      "item_type": "simple",
+      "name": "Одежда, обычная",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Обычная одежда."
+    },
+    {
+      "item_type": "simple",
+      "name": "Одежда, отличная",
+      "weight": 6.0,
+      "count": 1,
+      "description": "Отличная одежда."
+    },
+    {
+      "item_type": "simple",
+      "name": "Одеяло",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Тёплое одеяло."
+    },
+    {
+      "item_type": "simple",
+      "name": "Охотничий капкан",
+      "weight": 25.0,
+      "count": 1,
+      "description": "Спасбросок Ловкости Сл 13, иначе 1к4 колющего урона и движение остановлено. Высвобождение — Сила Сл 13."
+    },
+    {
+      "item_type": "simple",
+      "name": "Палатка, двухместная",
+      "weight": 20.0,
+      "count": 1,
+      "description": "Парусиновая палатка на двоих."
+    },
+    {
+      "item_type": "simple",
+      "name": "Пергамент (один лист)",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Лист пергамента."
+    },
+    {
+      "item_type": "simple",
+      "name": "Песочные часы",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Часы на 1 минуту."
+    },
+    {
+      "item_type": "simple",
+      "name": "Писчее перо",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Перо для письма."
+    },
+    {
+      "item_type": "simple",
+      "name": "Подзорная труба",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Увеличивает предметы в два раза."
+    },
+    {
+      "item_type": "simple",
+      "name": "Рационы (1 день)",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Обезвоженная пища на один день."
+    },
+    {
+      "item_type": "simple",
+      "name": "Рюкзак",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Кожаный рюкзак."
+    },
+    {
+      "item_type": "simple",
+      "name": "Ряса",
+      "weight": 4.0,
+      "count": 1,
+      "description": "Религиозное облачение."
+    },
+    {
+      "item_type": "simple",
+      "name": "Свеча",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Яркий свет 5 футов, тусклый ещё 5. Горит 1 час."
+    },
+    {
+      "item_type": "simple",
+      "name": "Амулет",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Священный символ в виде амулета."
+    },
+    {
+      "item_type": "simple",
+      "name": "Реликварий",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Священный символ в виде коробочки с реликвией."
+    },
+    {
+      "item_type": "simple",
+      "name": "Эмблема",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Священный символ в виде эмблемы на щите."
+    },
+    {
+      "item_type": "simple",
+      "name": "Сигнальный свисток",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Свисток для подачи сигналов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Спальник",
+      "weight": 7.0,
+      "count": 1,
+      "description": "Спальный мешок."
+    },
+    {
+      "item_type": "simple",
+      "name": "Столовый набор",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Чашка, приборы, складная сковорода/тарелка."
+    },
+    {
+      "item_type": "simple",
+      "name": "Сундук",
+      "weight": 25.0,
+      "count": 1,
+      "description": "Деревянный сундук."
+    },
+    {
+      "item_type": "simple",
+      "name": "Таран, портативный",
+      "weight": 35.0,
+      "count": 1,
+      "description": "+4 к проверкам Силы для вышибания дверей. С помощью — с преимуществом."
+    },
+    {
+      "item_type": "simple",
+      "name": "Точильный камень",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Камень для заточки оружия."
+    },
+    {
+      "item_type": "simple",
+      "name": "Трутница",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Кремень, кресало, трут. Разжечь факел — 1 действие, другой огонь — 1 минута."
+    },
+    {
+      "item_type": "simple",
+      "name": "Увеличительное стекло",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Преимущество на проверки для оценки мелких предметов. Можно разжечь огонь (5 минут)."
+    },
+    {
+      "item_type": "simple",
+      "name": "Факел",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Яркий свет 20 футов, тусклый ещё 20. Горит 1 час. Рукопашная атака — 1 урон огнём."
+    },
+    {
+      "item_type": "simple",
+      "name": "Веточка омелы",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Фокусировка друидов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Деревянный посох",
+      "weight": 4.0,
+      "count": 1,
+      "description": "Фокусировка друидов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Тисовая палочка",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Фокусировка друидов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Тотем",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Фокусировка друидов с перьями, мехом, костями, зубами."
+    },
+    {
+      "item_type": "simple",
+      "name": "Фонарь, закрытый",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Яркий свет 30 футов, тусклый ещё 30. Горит 6 часов на 1 пинте масла."
+    },
+    {
+      "item_type": "simple",
+      "name": "Фонарь, направленный",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Яркий свет 60-футовым конусом, тусклый ещё 60. Горит 6 часов на 1 пинте масла."
+    },
+    {
+      "item_type": "simple",
+      "name": "Цепь (10 футов)",
+      "weight": 10.0,
+      "count": 1,
+      "description": "10 хитов. Порвать — Сила Сл 20."
+    },
+    {
+      "item_type": "simple",
+      "name": "Чернила (бутылочка 30 граммов)",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Бутылочка чернил."
+    },
+    {
+      "item_type": "simple",
+      "name": "Шест (10 футов)",
+      "weight": 7.0,
+      "count": 1,
+      "description": "Деревянный шест длиной 10 футов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Шипы, железные (10)",
+      "weight": 5.0,
+      "count": 10,
+      "description": "Железные шипы."
+    },
+    {
+      "item_type": "simple",
+      "name": "Шлямбур",
+      "weight": 0.25,
+      "count": 1,
+      "description": "Металлический шлямбур."
+    },
+    {
+      "item_type": "simple",
+      "name": "Воровские инструменты",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Напильник, отмычки, зеркальце, ножницы, щипчики. Бонус мастерства к взлому замков и отключению ловушек."
+    },
+    {
+      "item_type": "simple",
+      "name": "Драконьи шахматы",
+      "weight": 0.5,
+      "count": 1,
+      "description": "Игровой набор."
+    },
+    {
+      "item_type": "simple",
+      "name": "Карты",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Игровой набор."
+    },
+    {
+      "item_type": "simple",
+      "name": "Кости",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Игровой набор."
+    },
+    {
+      "item_type": "simple",
+      "name": "Ставка трёх драконов",
+      "weight": 0.0,
+      "count": 1,
+      "description": "Игровой набор."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты навигатора",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Бонус мастерства к прокладке курса и проверкам, чтобы не потеряться в море."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты отравителя",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Бонус мастерства к созданию и использованию ядов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Барабан",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Виола",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Волынка",
+      "weight": 6.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Лира",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Лютня",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Рожок",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Свирель",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Флейта",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Цимбалы",
+      "weight": 10.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Шалмей",
+      "weight": 1.0,
+      "count": 1,
+      "description": "Музыкальный инструмент."
+    },
+    {
+      "item_type": "simple",
+      "name": "Набор для грима",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Бонус мастерства к проверкам визуальной маскировки."
+    },
+    {
+      "item_type": "simple",
+      "name": "Набор для фальсификации",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Бонус мастерства к созданию поддельных документов."
+    },
+    {
+      "item_type": "simple",
+      "name": "Набор травника",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Бонус мастерства к опознанию и использованию трав. Нужен для создания противоядия и зелья лечения."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты алхимика",
+      "weight": 8.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты гончара",
+      "weight": 3.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты каллиграфа",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты каменщика",
+      "weight": 8.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты картографа",
+      "weight": 6.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты кожевника",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты кузнеца",
+      "weight": 8.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты пивовара",
+      "weight": 9.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты плотника",
+      "weight": 6.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты повара",
+      "weight": 8.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты резчика по дереву",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты ремонтника",
+      "weight": 10.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты сапожника",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты стеклодува",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты ткача",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты художника",
+      "weight": 5.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    },
+    {
+      "item_type": "simple",
+      "name": "Инструменты ювелира",
+      "weight": 2.0,
+      "count": 1,
+      "description": "Инструменты ремесленника."
+    }
+  ]
+}
